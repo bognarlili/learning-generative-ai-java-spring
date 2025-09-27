@@ -1,0 +1,21 @@
+review_id,review_text,sentiment
+1,"This is simply the best product available on the market.",positive
+2,"It broke on the first use and I do not recommend it.",negative
+3,"This phenomenal product completely changed my life!",positive
+4,"Terrible durability. Cheaply made.",negative
+5,"This is a huge disappointment and I cannot recommend it.",negative
+6,"I am absolutely in love with this perfect product!",positive
+7,"This broken product is useless junk and I demand a replacement.",negative
+8,"The item is acceptable and matches its description.",neutral
+9,"It functions as described in the product listing.",neutral
+10,"This fantastic product makes me incredibly happy!",positive
+11,"The product functions as intended.",neutral
+12,"This is a really good product that works well.",positive
+13,"This extremely poor quality product broke immediately.",negative
+14,"This is a dreadful product was a complete waste of money.",negative
+15,"It arrived on the expected delivery date.",neutral
+16,"This product is completely useless.",negative
+17,"This is a solid and reliable product.",positive
+18,"I am totally amazed by this wonderfully valuable product.",positive
+19,"This is the worst product I have ever owned.",negative
+20,"The quality of this product is outstanding and perfect.",positive
