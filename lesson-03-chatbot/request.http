@@ -1,0 +1,16 @@
+### Health check
+GET http://localhost:8080
+
+> {% client.log("STATUS: " + response.status + " " + response.reason); %}
+> {% client.log("BODY: " + response.body); %}
+
+### Chat test
+POST http://localhost:8080/api/chatbot/chat
+Content-Type: application/json
+
+{
+  "query": "What is an object in Java?"
+}
+
+> {% client.log("STATUS: " + response.status + " " + response.reason); %}
+> {% client.log("BODY: " + response.body); %}
